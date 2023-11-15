@@ -1,2 +1,2 @@
 This is naveen.txt file
-
+This is second typed lines
